@@ -1,0 +1,26 @@
+# Raw datasets
+1. Raw data/
+
+# Excel analysis workbook
+2. Excel analysis/*.xlsx
+
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# Power BI files
+*.pbi-tools
+*.pbit
+*.pbix
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
